@@ -1,16 +1,20 @@
-### Hi there 👋
+Hi There! :D
+========================================================================================================================================
 
-<!--
-**siobaldev/siobaldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Currently Learning
+[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) &nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) &nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 
-Here are some ideas to get you started:
+### Skills
+[![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev) &nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev) &nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Social
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/minard-siobal-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+<!---
+br0wnrecluse/br0wnrecluse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
