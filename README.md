@@ -9,6 +9,9 @@ Hi There! :D
 &nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) &nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) &nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=sass)](https://skillicons.dev)
 ### Social
 
+ <a href="https://www.linkedin.com/in/minard-siobal-dev/">
+    ✨Portolfio Link
+  </a>
 ![image](https://github.com/user-attachments/assets/bee69f72-f5e2-49ec-956d-e17048848dcc)
 
 
