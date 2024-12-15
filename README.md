@@ -8,7 +8,7 @@ A passionate frontend developer from the Philippines aspiring to become a full-s
 
 <div>
   🔗
-  <a href="https://www.linkedin.com/in/minard-siobal-dev/">
+  <a href="https://siobal-portfolio.vercel.app/">
      Portolfio Link
   </a>
 </div>
