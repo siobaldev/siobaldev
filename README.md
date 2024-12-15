@@ -1,13 +1,8 @@
-Hi There! :D
-========================================================================================================================================
+✨ Hi There! :D
+---
 
-### Currently Learning
-[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) &nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev) &nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+# Social
 
-### Skills
-[![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev) &nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=dotnet)](https://skillicons.dev) &nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) 
-&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) &nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) &nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=sass)](https://skillicons.dev)
-### Social
 <div id="badges">
   <a href="https://www.linkedin.com/in/minard-siobal-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
