@@ -1,12 +1,10 @@
-# ✨ Hi there! 👋
+# ✨ `Hi there!` 👋
 
 ![](https://komarev.com/ghpvc/?username=siobaldev&color=a47764)
 
-<p>A passionate frontend developer from the Philippines aspiring to become a full-stack developer. <br /> I enjoy crafting user-friendly, pixel-perfect, and visually appealing web experiences.</p>
+`A passionate frontend developer from the Philippines aspiring to become a full-stack developer. <br /> I enjoy crafting user-friendly, pixel-perfect, and visually appealing web experiences.`
 
----
-
-# Portolio
+# Portfolio
 
 <div>
   <a href="https://www.linkedin.com/in/minard-siobal-dev/">
