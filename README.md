@@ -10,7 +10,7 @@
   </a>
 </div>
 
-<img style="width:600px" src="![image](https://github.com/user-attachments/assets/bee69f72-f5e2-49ec-956d-e17048848dcc)"></img>
+![Portolio-Bento-Grid](https://github.com/user-attachments/assets/bee69f72-f5e2-49ec-956d-e17048848dcc)
  
 ---
 
