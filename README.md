@@ -8,12 +8,11 @@ A passionate frontend developer from the Philippines aspiring to become a full-s
 
 <div>
   <a href="https://www.linkedin.com/in/minard-siobal-dev/">
-    Portolfio Link
-    <br />
+    🔗 Portolfio Link
   </a>
 </div>
 
-<img src="images/Porfolio-Bento-Grid.png" width="600px">
+<img src="images/Porfolio-Bento-Grid.png" width="800px" height="600px">
 
 ---
 
