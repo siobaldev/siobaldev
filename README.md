@@ -1,16 +1,16 @@
-✨ Hi there! 👋
----
+# ✨ Hi there! 👋
+
 ![](https://komarev.com/ghpvc/?username=siobaldev&color=a47764)
 
 <p>A passionate frontend developer from the Philippines aspiring to become a full-stack developer. <br /> I enjoy crafting user-friendly, pixel-perfect, and visually appealing web experiences.</p>
----
+
 <div>
   <a href="https://www.linkedin.com/in/minard-siobal-dev/">
-  ###✨Portolfio Link
+  ✨Portolfio Link
   </a>
 </div>
 
-![Portolio-Bento-Grid](https://github.com/user-attachments/assets/bee69f72-f5e2-49ec-956d-e17048848dcc)
+<img src="images/Porfolio-Bento-Grid.png" width="800px">
 
 ---
 
