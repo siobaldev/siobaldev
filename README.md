@@ -1,29 +1,22 @@
-# ✨ Hi there! 👋
+✨ Hey there!
 
-![](https://komarev.com/ghpvc/?username=siobaldev&color=a47764)
+I'm Minard Siobal, a web developer creating artistic yet functional digital experiences with a focus on thoughtful design and intuitive interactions. I enjoy crafting user-friendly interfaces that are both visually appealing and engaging.
 
-A passionate developer from the Philippines aspiring to become a full-stack developer. <br /> I enjoy crafting user-friendly, pixel-perfect, and visually appealing web experiences.
+I build web applications using Next.js, React, TypeScript, Node.js, Prisma and PostgreSQL(Supabase) — bringing interfaces to life with motion and subtle animations using libraries like Motion (formerly Framer Motion).
 
-# 👨🏻‍💻 Portfolio
+---
 
-<div>
-  🔗
-  <a href="https://siobal-portfolio.vercel.app/">
-     Portolfio Link
-  </a>
-</div>
-<br />
-<img src="images/Porfolio-Bento-Grid.png" width="800px" height="600px">
+### Technologies
 
-# 🛠️ Technologies
+- Core Stack: Next.js, React, TypeScript, Node.js, PostgreSQL(Supabase), Tailwind CSS, Motion, TanStack (React) Query
+- Tools & Design: Git, Figma
+- Other Technologies: JavaScript, HTML, CSS, Prisma
+- Previously Used: Sass, VB.NET, C#, MySQL, MS SQL
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind,js,nodejs,html,css,sass,git,figma,cs,mysql&perline=6)](https://skillicons.dev)
+--- 
 
-# 📊 Github Stats
+### Portfolio
 
-![Siobal's GitHub stats](https://github-readme-stats.vercel.app/api?username=siobaldev&show_icons=true&theme=codeSTACKr)
+Explore my projects ➜ [Portfolio](https://siobal-portfolio.vercel.app/)
 
-<!---
-br0wnrecluse/br0wnrecluse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="images/portfolio-bento-grid.png" alt="Siobal's Porfolio Bento Grid Image" width="100%" height="100%" />
