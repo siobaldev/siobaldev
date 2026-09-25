@@ -19,7 +19,7 @@ Self-taught since 2023. Still figuring out the parts I don't know yet, one proje
 
 ### Portfolio
 
-Explore my projects ➜ [Portfolio](https://siobaldev.vercel.app/)
+Explore my projects ➜ [Portfolio](https://siobal.is-a.dev/)
 
 <img src="images/portfolio-grid.png" alt="Siobal's Porfolio Grid Image" width="100%" height="100%" />
 
